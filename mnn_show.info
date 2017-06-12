@@ -1,5 +1,3 @@
-#features[field][] = "taxonomy_term-pbcore_genres-field_pbcore_custom_name"
-core = "7.x"
 dependencies[] = "cm_project"
 dependencies[] = "cm_show"
 dependencies[] = "features"
@@ -45,7 +43,12 @@ features[taxonomy][] = "reject_reason"
 features[taxonomy][] = "runtime"
 features[taxonomy][] = "topic"
 name = "MNN Show"
-package = "MNN Features"
-php = "5.2.4"
+
+
+package = "MNN Community Media Advanced"
+version = "7.x-1.3"
+core = "7.x"
 project = "mnn_show"
-version = "7.x-1.0-beta1"
+project_status_url = https://github.com/cm-advanced/mnn_show
+php = "5.2.4"
+
