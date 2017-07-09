@@ -46,7 +46,7 @@ name = "MNN Show"
 
 
 package = "MNN Community Media Advanced"
-version = "7.x-1.3"
+version = "7.x-1.4"
 core = "7.x"
 project = "mnn_show"
 project_status_url = https://github.com/cm-advanced/mnn_show
